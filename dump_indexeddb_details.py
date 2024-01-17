@@ -1,6 +1,6 @@
 import sys
 import pathlib
-import ccl_chromium_indexeddb
+from . import ccl_chromium_indexeddb
 
 
 def main(args):

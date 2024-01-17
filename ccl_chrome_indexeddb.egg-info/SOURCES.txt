@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+ccl_chrome_indexeddb.egg-info/PKG-INFO
+ccl_chrome_indexeddb.egg-info/SOURCES.txt
+ccl_chrome_indexeddb.egg-info/dependency_links.txt
+ccl_chrome_indexeddb.egg-info/requires.txt
+ccl_chrome_indexeddb.egg-info/top_level.txt
